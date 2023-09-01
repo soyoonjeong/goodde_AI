@@ -8,7 +8,6 @@
 ## 🌊 수해인식 AI
 - **selenium** 사용하여 <a href = "https://github.com/gooddeLink/Flask/blob/main/jupyter_notebooks/%EA%B5%AC%EA%B8%80_%EC%9D%B4%EB%AF%B8%EC%A7%80_%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb"> 구글 이미지 크롤링</a>
 - **데이터 전처리** (<a href = "https://github.com/gooddeLink/Flask/blob/main/app.py">app.py</a>의 transform_image)
-<p align="center"> <img src="https://user-images.githubusercontent.com/101400650/205248617-eb334006-5a48-4935-8622-d21e650321a8.png" width="500"></p>
 - pretained된 <a href = "https://github.com/gooddeLink/Flask/blob/main/jupyter_notebooks/mobilenetv3_train.ipynb">MobileNetV3</a>, <a href = "https://github.com/gooddeLink/Flask/blob/main/jupyter_notebooks/resnet18_train.ipynb">ResNet18</a>, <a href = "https://github.com/gooddeLink/Flask/blob/main/jupyter_notebooks/pytorch_project_resnet50.ipynb">ResNet50</a> 모델 사용하여 transfer learning
 - 성능이 가장 뛰어난 **MobileNetV3** 사용 <br>
 
